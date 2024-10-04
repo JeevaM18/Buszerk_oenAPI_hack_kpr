@@ -101,7 +101,7 @@ Example Output
 yaml
 Copy code
 
-# === Training and Evaluating Normal Models ===
+# Training and Evaluating Normal Models
 
 Training Random Forest...
 Random Forest trained in 12.34 seconds.
@@ -115,7 +115,7 @@ Random Forest - MSE: 0.001234, RMSE: 0.035123, MAE: 0.025678, R²: 0.987654
 Evaluating XGBoost...
 XGBoost - MSE: 0.001567, RMSE: 0.039583, MAE: 0.028345, R²: 0.984321
 
-# === Training and Evaluating Intel Optimized Models ===
+# Training and Evaluating Intel Optimized Models 
 
 Training Random Forest...
 Random Forest trained in 10.21 seconds.
@@ -140,7 +140,7 @@ Example Simulation Output
 yaml
 Copy code
 
-# === Simulating Bus Stops with Intel Optimized XGBoost Model ===
+# Simulating Bus Stops with Intel Optimized XGBoost Model 
 
 Stop: Stop_A
 Destination Stop: Stop_B
