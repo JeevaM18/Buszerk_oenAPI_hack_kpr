@@ -1,0 +1,98 @@
+﻿Bus_ID,Route_ID,Passenger_ID,Boarding_Stop,Destination_Stop,Date,Day_of_Week,Time,Weather
+MTC_102,Route_2,Passenger_1,Chrompet,Perungalathur,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_2,Chrompet,Saidapet,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_3,Chrompet,Saidapet,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_4,Chrompet,Guindy,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_5,Chrompet,Saidapet,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_6,Chrompet,Guindy,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_7,Chrompet,Saidapet,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_8,Chrompet,Tambaram,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_9,Chrompet,Guindy,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_10,Chrompet,Guindy,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_11,Chrompet,Teynampet,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_12,Chrompet,Tambaram,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_13,Chrompet,Teynampet,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_14,Chrompet,Tambaram,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_15,Chrompet,Saidapet,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_16,Chrompet,Teynampet,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_17,Chrompet,Tambaram,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_18,Chrompet,Teynampet,01-01-2024,Monday,06:00,Raining
+MTC_102,Route_2,Passenger_19,Tambaram,Teynampet,01-01-2024,Monday,06:10,Cloudy
+MTC_102,Route_2,Passenger_20,Tambaram,Perungalathur,01-01-2024,Monday,06:10,Cloudy
+MTC_102,Route_2,Passenger_21,Tambaram,Guindy,01-01-2024,Monday,06:10,Cloudy
+MTC_102,Route_2,Passenger_22,Tambaram,Guindy,01-01-2024,Monday,06:10,Cloudy
+MTC_102,Route_2,Passenger_23,Tambaram,Saidapet,01-01-2024,Monday,06:10,Cloudy
+MTC_102,Route_2,Passenger_24,Tambaram,Saidapet,01-01-2024,Monday,06:10,Cloudy
+MTC_102,Route_2,Passenger_25,Tambaram,Guindy,01-01-2024,Monday,06:10,Cloudy
+MTC_102,Route_2,Passenger_26,Tambaram,Saidapet,01-01-2024,Monday,06:10,Cloudy
+MTC_102,Route_2,Passenger_27,Tambaram,Saidapet,01-01-2024,Monday,06:10,Cloudy
+MTC_102,Route_2,Passenger_28,Tambaram,Guindy,01-01-2024,Monday,06:10,Cloudy
+MTC_102,Route_2,Passenger_29,Tambaram,Perungalathur,01-01-2024,Monday,06:10,Cloudy
+MTC_102,Route_2,Passenger_30,Tambaram,Teynampet,01-01-2024,Monday,06:10,Cloudy
+MTC_102,Route_2,Passenger_31,Perungalathur,Teynampet,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_32,Perungalathur,Guindy,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_33,Perungalathur,Saidapet,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_34,Perungalathur,Teynampet,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_35,Perungalathur,Saidapet,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_36,Perungalathur,Saidapet,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_37,Perungalathur,Guindy,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_38,Perungalathur,Teynampet,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_39,Perungalathur,Teynampet,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_40,Perungalathur,Teynampet,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_41,Perungalathur,Teynampet,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_42,Perungalathur,Guindy,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_43,Perungalathur,Saidapet,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_44,Perungalathur,Guindy,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_45,Perungalathur,Saidapet,01-01-2024,Monday,06:20,Clear
+MTC_102,Route_2,Passenger_46,Guindy,Saidapet,01-01-2024,Monday,06:30,Cloudy
+MTC_102,Route_2,Passenger_47,Guindy,Saidapet,01-01-2024,Monday,06:30,Cloudy
+MTC_102,Route_2,Passenger_48,Guindy,Saidapet,01-01-2024,Monday,06:30,Cloudy
+MTC_102,Route_2,Passenger_49,Guindy,Teynampet,01-01-2024,Monday,06:30,Cloudy
+MTC_102,Route_2,Passenger_50,Guindy,Teynampet,01-01-2024,Monday,06:30,Cloudy
+MTC_102,Route_2,Passenger_51,Guindy,Teynampet,01-01-2024,Monday,06:30,Cloudy
+MTC_102,Route_2,Passenger_52,Guindy,Teynampet,01-01-2024,Monday,06:30,Cloudy
+MTC_102,Route_2,Passenger_53,Guindy,Saidapet,01-01-2024,Monday,06:30,Cloudy
+MTC_102,Route_2,Passenger_54,Guindy,Saidapet,01-01-2024,Monday,06:30,Cloudy
+MTC_102,Route_2,Passenger_55,Guindy,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_56,Guindy,Anna Nagar,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_57,Guindy,Anna Nagar,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_58,Guindy,Anna Nagar,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_59,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_60,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_61,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_62,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_63,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_64,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_65,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_66,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_67,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_68,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_69,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_70,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_71,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_72,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_73,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_74,Saidapet,Teynampet,01-01-2024,Monday,06:40,Raining
+MTC_102,Route_2,Passenger_75,Saidapet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_76,Saidapet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_77,Saidapet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_78,Saidapet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_79,Saidapet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_80,Saidapet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_81,Saidapet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_82,Saidapet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_83,Saidapet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_84,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_85,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_86,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_87,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_88,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_89,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_90,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_91,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_92,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_93,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_94,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_95,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_96,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
+MTC_102,Route_2,Passenger_97,Teynampet,Anna Nagar,01-01-2024,Monday,06:50,Raining
