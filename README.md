@@ -1,5 +1,4 @@
 # **BUSZERK - Bus Passenger Prediction and Simulation**
-
 ![WhatsApp Image 2024-10-04 at 1 02 23 PM](https://github.com/user-attachments/assets/f9cb57c6-394b-44b3-aec0-0f5d7c9f5c41)
 
 
@@ -167,7 +166,9 @@ Standing passengers: 9
 Visualization
 The script generates horizontal bar charts to compare the Mean Squared Error (MSE) of standard and Intel-optimized models.
 
+# UI & UX IMAGES
 
+![image](https://github.com/user-attachments/assets/c341dfd0-ff2f-42f9-ada3-c61df1b04923)
 
 # Results
 After training and evaluating both standard and Intel-optimized models, the script provides a comparison of their performance based on MSE and other metrics. The simulation outputs demonstrate how the models can effectively manage bus passenger flows.
