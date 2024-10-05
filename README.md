@@ -1,4 +1,7 @@
-# **Bus Passenger Prediction and Simulation**
+# **BUSZERK - Bus Passenger Prediction and Simulation**
+
+
+![image](https://github.com/user-attachments/assets/5fd955de-8112-4246-83fd-372f7a4b1fed)
 
 
 Table of Contents
