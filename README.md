@@ -168,7 +168,15 @@ The script generates horizontal bar charts to compare the Mean Squared Error (MS
 
 # UI & UX IMAGES
 
-![image](https://github.com/user-attachments/assets/c341dfd0-ff2f-42f9-ada3-c61df1b04923)
+![1](https://github.com/user-attachments/assets/7983b0cf-7351-4c6a-816d-a4722b96a240)
+![2](https://github.com/user-attachments/assets/d2305720-7f6e-444e-b169-1d5f6e68535b)
+![3](https://github.com/user-attachments/assets/a4d89e2d-1aad-4899-bce0-41a1d2366ba6)
+![4](https://github.com/user-attachments/assets/8fa02cb6-8fee-427f-914d-34033eac40c8)
+![5](https://github.com/user-attachments/assets/71a63936-2960-47f7-b8d3-70e54ec07b9b)
+![KJHG](https://github.com/user-attachments/assets/42bf6f92-5242-44ef-bc35-833dcc66e032)
+![ASDS](https://github.com/user-attachments/assets/240bd099-a8c0-4ae9-b336-079fbb37b39f)
+![SAFS](https://github.com/user-attachments/assets/61204a94-3ca9-4d28-9d7b-55922e6f4180)
+
 
 # Results
 After training and evaluating both standard and Intel-optimized models, the script provides a comparison of their performance based on MSE and other metrics. The simulation outputs demonstrate how the models can effectively manage bus passenger flows.
