@@ -1,7 +1,7 @@
 # **BUSZERK - Bus Passenger Prediction and Simulation**
 
+![WhatsApp Image 2024-10-04 at 1 02 23 PM](https://github.com/user-attachments/assets/f9cb57c6-394b-44b3-aec0-0f5d7c9f5c41)
 
-![image](https://github.com/user-attachments/assets/5fd955de-8112-4246-83fd-372f7a4b1fed)
 
 
 Table of Contents
