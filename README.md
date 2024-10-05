@@ -167,11 +167,8 @@ Visualization
 The script generates horizontal bar charts to compare the Mean Squared Error (MSE) of standard and Intel-optimized models.
 
 # UI & UX IMAGES
-
-![SAFS](https://github.com/user-attachments/assets/3635cec4-183b-4131-975c-ab42dde864ed)
 ![ZXC](https://github.com/user-attachments/assets/eeb8101c-5c70-4e28-89c9-e84e7a1de63d)
 ![FKHG](https://github.com/user-attachments/assets/eef64c3e-0f8e-402c-a38b-d24567d80b2f)
-![GFGHGF](https://github.com/user-attachments/assets/27a501d9-c13a-44d2-b526-6b3ff1b6333d)
 ![SDSFAFDS](https://github.com/user-attachments/assets/b861a194-147b-4fff-bb8e-52786a1e26b0)
 ![SDA](https://github.com/user-attachments/assets/05309804-6a49-4cee-b60a-afa196001fe5)
 ![SDZGDGFDG](https://github.com/user-attachments/assets/7a8cd6cb-948e-45da-a63c-a91f5327f57f)
