@@ -116,6 +116,8 @@ Evaluating XGBoost...
 XGBoost - MSE: 0.001567, RMSE: 0.039583, MAE: 0.028345, R²: 0.984321
 
 # Training and Evaluating Intel Optimized Models 
+![dd5f6c83-e003-4378-af2a-3023e13f9ff1](https://github.com/user-attachments/assets/dc203918-be5f-4795-8c0e-d3e9353f04ec)
+![cfd2dc66-0a56-4e1f-bb0b-68ff8d3646e5](https://github.com/user-attachments/assets/17eac0d3-2917-4312-a4d2-7c3a91ca031c)
 
 Training Random Forest...
 Random Forest trained in 10.21 seconds.
